@@ -1,4 +1,4 @@
-The Ways of the World
+The Ways of the World and amazing project
 =====================
 
 ## Deployment ##
